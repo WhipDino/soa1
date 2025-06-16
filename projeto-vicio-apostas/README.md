@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um projeto acadêmico desenvolvido para ajudar pessoas com vício compulsivo em apostas. O sistema oferece funcionalidades básicas de cadastro, autenticação e acompanhamento de sessões de apoio.
+Este é um projeto acadêmico desenvolvido para ajudar pessoas com vício compulsivo em apostas. O sistema oferece funcionalidades de cadastro, autenticação e acompanhamento de sessões de apoio.
 
 ## Tecnologias Utilizadas
 
