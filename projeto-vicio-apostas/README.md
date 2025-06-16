@@ -186,7 +186,4 @@ curl -X POST http://localhost:8080/api/sessoes \
 - Endpoints protegidos requerem autenticação
 - CORS configurado para desenvolvimento (ajustar para produção)
 
-## Licença
-
-Este projeto é desenvolvido para fins acadêmicos.
 
